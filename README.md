@@ -26,4 +26,6 @@ Practiced multiple functions of Excel to develop detail findings and analyses re
 ---
 ## Key Findings of Analysis
 ---
-*Will enter images as soon as I figure out how*
+![Chart One](https://github.com/mreid1066/module-1-kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date.png)
+---
+![Chart Two](https://github.com/mreid1066/module-1-kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
