@@ -9,10 +9,12 @@ This project's goal was to aid Louise by giving her an analytical perspective of
 
 ### Analysis of Outcomes Based on Launch Date
 We were able to compare the outcome of a kickstarter campaigns based on the month it launched by putting all the data in a pivot table. We filtered the criteria based off of Parent Category and Years and then organized the data with Date Created being the field our rows and using Outcomes as both our columns and values. We were able to visualize the data by using a line chart with the months as the x-axis and the number of outcomes as the y-axis. 
+
 ![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 We also looked at the outcomes of kickstarted campaigns based on goals by using the COUNTIFS function in excel to pinpoint the number of successful, failed and canceled campaigns in the play subcategory based off of specific ranges for the goals. We nested COUNTIFS criteria in the formula in order to provide a comprehensive way to count the number of occurances based on the specific criteria needed for each cell. Once we had the number of occurances for each outcome at the vaious goal ranges, we found the sum of total campaigns at each goal range. Once this was determined, we were able to calculate the percentage of "Successful", "Failed" and "Canceled" campaigns for each range. Once all of our deliverables were calculated, we then created a line chart to visually demonstrate the analysis based off of the percentages where the y- axis was percentage and the x-axis was range of fundraising goal. Because there were no canceled kickstarter campaigns for plays, the lines for "Successful" and "Failed" campaigns mirrored eachother as one would expect.  
+
 ![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
